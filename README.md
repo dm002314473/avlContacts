@@ -3,10 +3,8 @@
 ### 1. Pull from GitHub
 
 1. Open terminal and navigate to desired directory
-2. Clone the repository, use:
-   ````bash
-   git clone https://github.com/dm002314473/avlContacts.git ```
-   ````
+2. Clone the repository, use:`bash
+git clone https://github.com/dm002314473/avlContacts.gi`
 3. Navigate to root directory: `bash cd contacts`
 
 ### 2. Install dependencies
@@ -16,5 +14,5 @@
 
 ### 3. Run the application
 
-1. Run: npm start
+1. Run: `npm start`
 2. The app should be running on localhost now
