@@ -67,7 +67,7 @@ const updateContact = async (id, updatedContact) => {
 // Delete a contact with specific id
 const deleteContact = async (id) => {
   try {
-    const response = await fetch(`${BACKEND_URL}/${id}`, {
+    await fetch(`${BACKEND_URL}/${id}`, {
       method: "DELETE",
     });
 

@@ -6,14 +6,13 @@
 2. Clone the repository, use:
 
 ```bash
-
 git clone https://github.com/dm002314473/avlContacts.git
 ```
 
 3. Navigate to root directory:
 
 ```bash
-cd contacts
+cd avlContacts
 ```
 
 ### 2. Install dependencies
