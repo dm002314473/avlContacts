@@ -13,7 +13,7 @@ git clone https://github.com/dm002314473/avlContacts.git
 3. Navigate to root directory:
 
 ```bash
-cd contacts`
+cd contacts
 ```
 
 ### 2. Install dependencies
