@@ -4,7 +4,7 @@
 
 1. Open terminal and navigate to desired directory
 2. Clone the repository, use:`bash
-git clone https://github.com/dm002314473/avlContacts.gi`
+git clone https://github.com/dm002314473/avlContacts.git`
 3. Navigate to root directory: `bash cd contacts`
 
 ### 2. Install dependencies
